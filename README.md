@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Mishra</h1>
 <h3 align="center">A Curious Individual who has a knack to solve problems through data.</h3>
 
-- 🔭 I’m currently working on [Home credit default analysis](https://github.com/atharva3428/home-credit-analysis)
+- 🔭 I’m currently working on [HMDA Mortgage Lending Analysis](https://github.com/atharva3428/HMDA-Mortgage-Lending-Analysis)
 
 - 👯 I’m looking to collaborate on [ATP-Tennis-Analysis](https://github.com/atharva3428/atp-analysis)
 
@@ -10,6 +10,16 @@
 - 📫 How to reach me **atharva.3428@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VPLxWTESlP-WODO4AfFELL3SFgya8m-Q/view?usp=sharing](https://drive.google.com/file/d/1VPLxWTESlP-WODO4AfFELL3SFgya8m-Q/view?usp=sharing)
+
+<h3 align="left">Recent Projects:</h3>
+
+| Project | Description |
+|---------|-------------|
+| [HMDA Mortgage Lending Analysis](https://github.com/atharva3428/HMDA-Mortgage-Lending-Analysis) | Analyzes US mortgage lending data from the FFIEC HMDA Platform using DuckDB SQL with an interactive Streamlit dashboard |
+| [SQL Sales Funnel Analysis](https://github.com/atharva3428/SQL_SALES_FUNNEL_ANALYSIS) | Sales funnel analysis using SQL to uncover conversion patterns and pipeline insights |
+| [Credit Card Fraud Detection](https://github.com/atharva3428/credit_card_fraud) | Machine learning model to detect fraudulent credit card transactions |
+| [Home Credit Default Analysis](https://github.com/atharva3428/home-credit-analysis) | Exploratory Data Analysis on the Home Credit Default Risk dataset uncovering key patterns in demographics |
+| [ATP Tennis Analysis](https://github.com/atharva3428/atp-analysis) | ATP Tennis Data Analysis Project using Snowflake |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
